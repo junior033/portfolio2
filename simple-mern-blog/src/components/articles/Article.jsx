@@ -18,4 +18,4 @@ const Article = ({match}) => {
     )
 }
 
-export default Article
+export default Article;
